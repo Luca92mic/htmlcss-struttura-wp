@@ -22,20 +22,27 @@ main{
     margin: 20px 0;
 }
 
+/* box giallo */
+.yellow{
+    height: 300px;
+    background-color: #E1D67A;
+    margin-bottom: 30px;
+}
+
 /* colonna di sinistra */
 .float-left{
     float: left;
 }
 
 aside{
-    height: 100%;
+    height: 600px;
     width: 25%;
     background-color: #ABCFE8;
 }
 
 section{
     margin: 0 20px;
-    height: 100%;
+    height: 600px;
     width: calc(50% - 40px);
     background-color: #ABCFE8;
 }
@@ -50,8 +57,13 @@ section{
     padding: 20px;
 }
 
-.yellow{
-    height: 300px;
-    background-color: #E1D67A;
-    margin-bottom: 30px;
+.box{
+    background-color: #0087FE;
+    border-bottom: 20px solid #0087FE;
+}
+
+.box-azzurro{
+    height: 100px;
+    background-color: #ABCFE8;
+    border-bottom: 20px solid #0087FE;
 }
