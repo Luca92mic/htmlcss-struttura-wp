@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 100px;
+    background-color: #E57AE6;
+    margin-bottom: 30px;
+}
+
+footer {
+    height: 100px;
+    background-color: #8901FF;
+}
