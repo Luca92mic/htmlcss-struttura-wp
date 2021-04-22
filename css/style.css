@@ -11,6 +11,43 @@ header {
 }
 
 footer {
-    height: 100px;
+    height: 100px; 
     background-color: #8901FF;
+}
+
+/* box centrale */
+.yellow {
+    height: 350px;
+    width: 100%; /* da togliere */
+    background-color: #E1D67A;
+    margin-bottom: 30px;
+}
+
+.azzurro{
+    height: 100px;
+    background-color: #ABCFE8;
+    margin-bottom: 20px;
+}
+
+
+.box{
+    height: 300px; /* da togliere */
+    background-color: #E1D67A;
+    margin-bottom: 15px;
+}
+
+.float-left{
+    float: left;
+}
+
+aside{
+    height: 100%;
+    background-color: #ABCFE8;
+    width: 25%;
+}
+
+section {
+    height: 100%;
+    background-color: red;
+    width: 50%;
 }
